@@ -1,4 +1,4 @@
-## The Dream Team
+## The Dream Team (Raul, Darius, Scott, Abdulahi)
 
 What are the key strengths of each person on the team?
 -abdulahi-accountability and positivity
