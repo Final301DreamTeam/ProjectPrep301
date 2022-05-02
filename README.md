@@ -83,3 +83,7 @@ Minimum Viable Product (MVP) definition.
 What is the minimum required for you to present on your demo day?
 - login, create profile, can save liked pofiles of other pets.
 - login and serch city/place and food type, shows resturants in the area
+
+
+## User stories WireFrame Domain Model
+- https://www.figma.com/file/xTUJSTyBoIXgUueumMucwS/ProjectPrep4?node-id=0%3A1
