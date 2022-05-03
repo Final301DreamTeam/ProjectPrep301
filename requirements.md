@@ -40,6 +40,7 @@ About us page.
 
 ## Stretch goals
 - filter by rating
+- weather 
 - cache the api calls 
 
 ## Functional Requirements
