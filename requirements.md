@@ -68,5 +68,4 @@ About us page.
   ### Security
   - If auth0 is down the user won't able to login to our site and
        access the data correctly. Make sure our .env file is not on 
-       our github. People only have access to the sample.env and not 
-       our api links, mongoDB links.
+       our github only the sample one.
