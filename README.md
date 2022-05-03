@@ -87,19 +87,11 @@ What is the minimum required for you to present on your demo day?
 
 ## User stories WireFrame Domain Model
 
-- [ProjectPrep4 (2).pdf](https://github.com/Final301DreamTeam/ProjectPrep301/files/8607805/ProjectPrep4.2.pdf)
+![Untitled (1)](https://user-images.githubusercontent.com/80485424/166511468-d1f495ec-a23f-49b1-a8b4-93bdec727b74.jpg)
+
+![Flowchart (1)](https://user-images.githubusercontent.com/80485424/166510697-c5bb87eb-af2d-4dc6-8c4a-b0acea9dc9ab.jpg)
 
 ## Using a Database? Make an Database Schema Diagram
 
-If you are using a database of any kind in your project, draft out what your schema will look like by creating a diagram of all your application data models, each in it’s own collection (or table).
+![Untitled (2)](https://user-images.githubusercontent.com/80485424/166518503-5b385a67-6b14-4140-ba8c-1a7e3459de53.jpg)
 
-Be sure to identify the relationships (if any) between each of your data models:
-
-Does a single item in your database “belong to” just one other item in your database? For example, a person has one passport, and a passport belongs to a single person.
-Does a item in your database “belong to” multiple other items in your database? For example, a house has many residents, and each resident has one primary house.
-Do many items in your database relate to many other items in your database? For example, a band has many musicians, and a musician can be in many bands.
-Also, include for each seperate collection:
-
-The name of each property stored in the collection.
-The required data type.
-An indication if this collection is associated with another collection
