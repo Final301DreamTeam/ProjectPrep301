@@ -88,8 +88,8 @@ What is the minimum required for you to present on your demo day?
 ## User stories WireFrame Domain Model
 
 ![Untitled (1)](https://user-images.githubusercontent.com/80485424/166511468-d1f495ec-a23f-49b1-a8b4-93bdec727b74.jpg)
+![Scanned Documents](https://user-images.githubusercontent.com/80485424/166522441-d0ce1e47-a09f-4f9f-99d9-e7a1ed8184b9.jpg)
 
-![Flowchart (1)](https://user-images.githubusercontent.com/80485424/166510697-c5bb87eb-af2d-4dc6-8c4a-b0acea9dc9ab.jpg)
 
 ## Using a Database? Make an Database Schema Diagram
 
